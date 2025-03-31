@@ -16,20 +16,14 @@ This weather app fetches and displays real-time weather data from the OpenWeathe
 - **JavaScript**: Handles fetching data and updating the DOM.
 - **OpenWeather API**: Provides the weather data.
 
-
+git
 ## How to Use
 
 1. Enter the name of a city in the input field.
 2. Click the "Get Weather" button.
-3. The weather data for that city will be displayed, including temperature, weather description, and whether it's currently daytime or nighttime.
+3. The weather data for that city will be displayed, including temperature, weather description, icon, and whether it's currently daytime or nighttime (background).
 4. If the city name is invalid or data cannot be fetched, an error message will appear. <-- stopped working -->
 
-
-## Example
-
-1. Enter a city (e.g., "London").
-2. Click "Get Weather."
-3. The app will display the weather in that city along with an icon, description, temperature, and whether it is day or night.
 
 ## Challenges Faced
 
